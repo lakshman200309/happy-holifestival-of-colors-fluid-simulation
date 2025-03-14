@@ -1,7 +1,3 @@
-/*
-ORIGINAL WORK
-https://codepen.io/PavelDoGreat/pen/zdWzEL
-*/
 
 'use strict';
 
